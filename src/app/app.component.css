@@ -1,0 +1,70 @@
+.full-body{
+    background-color: rgb(219, 230, 245);
+}
+
+.header{
+    display: flex;
+    width:100vw;
+    height: 20vh;
+    background-image: linear-gradient(to bottom right, red, yellow);
+    border-bottom-left-radius: 20px;
+    justify-content: left;
+    align-items: center;
+}
+
+.schoolname{
+    margin-left: 20px;
+}
+
+.user-id{
+    background-color: #ffffff;
+    width:80vw;
+    height:20vh;
+    border-radius: 15px;
+    position: absolute;
+    left:30px;
+    top: 85px
+}
+
+.main-body{
+    background-color: green;
+    border-radius: 15px;
+    height: 45vh;
+    margin-top: 95px;
+    background-image: linear-gradient(violet,blue);
+}
+
+.body-header{
+    margin-top: 20px;
+    margin-left: 20px;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.zero{
+    margin-left: 20px;
+    font-size: 80px;
+    font-weight: bold;
+}
+
+.body-para{
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.body-footer{
+    margin-left: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-around;
+}
+
+.activate, .cancel{
+    height: 40px;
+    border-radius: 15px;
+}
+
+.errors{
+    color: red;
+}
