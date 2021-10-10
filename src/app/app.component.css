@@ -13,7 +13,8 @@
 }
 
 .schoolname{
-    margin-left: 20px;
+    margin-left: 15px;
+    font-size: 17px;
 }
 
 .user-id{
@@ -23,14 +24,14 @@
     border-radius: 15px;
     position: absolute;
     left:30px;
-    top: 85px
+    top: 100px
 }
 
 .main-body{
     background-color: green;
     border-radius: 15px;
     height: 45vh;
-    margin-top: 95px;
+    margin-top: 110px;
     background-image: linear-gradient(violet,blue);
 }
 
